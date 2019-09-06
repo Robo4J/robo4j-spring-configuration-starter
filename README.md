@@ -6,12 +6,14 @@ how to use:
 add plugin into your project 
 to the folder
  
- <project_directory>/src/resources/
-add 
+**<project_directory>/src/resources/**
 
-robo4Context.xml and robo4jSystem.xml
+    * robo4Context.xml 
+    * robo4jSystem.xml
 
-or
+or in case of remote context
 
-robo4jRemoteContext.xml and robo4jRemoteSystem.xml
+    * robo4jRemoteContext.xml 
+    * robo4jRemoteSystem.xml
+
 
